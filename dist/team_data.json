@@ -1,5 +1,5 @@
 {
-  "next_id": 2,
+  "next_id": 3,
   "players": [
     {
       "id": 1,
@@ -9,6 +9,15 @@
       "date_naissance": "12/12/2000",
       "poste": "Attaquant",
       "numero": "22"
+    },
+    {
+      "id": 2,
+      "nom_complet": "az",
+      "telephone": "a",
+      "image_path": "player_images\\player_2.png",
+      "date_naissance": "a",
+      "poste": "Attaquant",
+      "numero": "1"
     }
   ]
 }
