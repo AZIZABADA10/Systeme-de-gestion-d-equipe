@@ -1,0 +1,14 @@
+{
+  "next_id": 3,
+  "players": [
+    {
+      "id": 1,
+      "nom_complet": "Aziz abada",
+      "telephone": "0651952436",
+      "image_path": "player_images\\player_1.jpg",
+      "date_naissance": "17-12-2025",
+      "poste": "Attaquant",
+      "numero": "10"
+    }
+  ]
+}
