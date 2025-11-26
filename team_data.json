@@ -1,5 +1,5 @@
 {
-  "next_id": 3,
+  "next_id": 4,
   "players": [
     {
       "id": 1,
@@ -9,6 +9,15 @@
       "date_naissance": "17-12-2025",
       "poste": "Attaquant",
       "numero": "10"
+    },
+    {
+      "id": 3,
+      "nom_complet": "khalid",
+      "telephone": "0512345678",
+      "image_path": "",
+      "date_naissance": "12/12/2000",
+      "poste": "Défenseur",
+      "numero": "11"
     }
   ]
 }
