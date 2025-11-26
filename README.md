@@ -120,7 +120,7 @@ postes = ["Gardien", "Défenseur", "Milieu", "Attaquant", "Capitaine"]
 ```
 
 ## 📸 Captures d'écran
-
+![alt text](images/tabeau_board.png)
 ![alt text](image.png)
 
 ##  Fonctionnalités Techniques
