@@ -1,0 +1,14 @@
+{
+  "next_id": 2,
+  "players": [
+    {
+      "id": 1,
+      "nom_complet": "Azouuuz",
+      "telephone": "06123456778",
+      "image_path": "player_images\\player_1.png",
+      "date_naissance": "12/12/2000",
+      "poste": "Attaquant",
+      "numero": "22"
+    }
+  ]
+}
